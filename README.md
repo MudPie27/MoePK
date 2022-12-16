@@ -6,9 +6,9 @@ So far I've learned about/utlized:
 - Views and view groups
 - Activities
 - Fragments and layouts
-- options, context and opoup menus
+- Options, context and popup menus
 - Gesture inputs
-- lifecycles of activies and fragments
+- Lifecycles of activies and fragments
 - RecyclerView
 - ScrollerView
 
