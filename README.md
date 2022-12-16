@@ -17,4 +17,4 @@ So far I've learned about/utlized:
 - Sending HTTP requests
 - Using REST APIs
 
-resource used: 
+Main resources used: [Android developers documentation](https://developer.android.com/docs)
