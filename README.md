@@ -2,7 +2,7 @@
 A simple [trace.moe](https://trace.moe/) android client written in Java.
 
 ### This is a work-in-progress project
-So far I've learned about/utlized:
+So far I've learned about/utilized:
 - Views and view groups
 - Activities
 - Fragments and layouts
