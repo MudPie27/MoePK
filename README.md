@@ -16,5 +16,6 @@ So far I've learned about/utilized:
 - Parsing JSON files
 - Sending HTTP requests
 - Using REST APIs
+- Maven project and dependency manager
 
 #### Main resource used: [Android developers documentation](https://developer.android.com/docs)
