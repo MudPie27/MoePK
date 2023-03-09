@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MoePK</string>
+    <string name="searchButton">Search</string>
 </resources>
