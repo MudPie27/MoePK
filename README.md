@@ -8,7 +8,7 @@ So far I've learned about/utilized:
 - Fragments and layouts
 - Options, context and popup menus
 - Gesture inputs
-- Lifecycles of activies and fragments
+- Lifecycles of activities and fragments
 - RecyclerView
 - ScrollerView
 
